@@ -1,0 +1,11 @@
+C:\Users\samue\source\repos\FinalTestNETClass\DTOs\bin\Debug\netcoreapp3.1\DTOs.deps.json
+C:\Users\samue\source\repos\FinalTestNETClass\DTOs\bin\Debug\netcoreapp3.1\DTOs.dll
+C:\Users\samue\source\repos\FinalTestNETClass\DTOs\bin\Debug\netcoreapp3.1\DTOs.pdb
+C:\Users\samue\source\repos\FinalTestNETClass\DTOs\obj\Debug\netcoreapp3.1\DTOs.AssemblyInfoInputs.cache
+C:\Users\samue\source\repos\FinalTestNETClass\DTOs\obj\Debug\netcoreapp3.1\DTOs.AssemblyInfo.cs
+C:\Users\samue\source\repos\FinalTestNETClass\DTOs\obj\Debug\netcoreapp3.1\DTOs.dll
+C:\Users\samue\source\repos\FinalTestNETClass\DTOs\obj\Debug\netcoreapp3.1\DTOs.pdb
+C:\Users\samue\source\repos\FinalTestNETClass\DTOs\bin\Debug\netcoreapp3.1\DTOs.runtimeconfig.json
+C:\Users\samue\source\repos\FinalTestNETClass\DTOs\bin\Debug\netcoreapp3.1\DTOs.runtimeconfig.dev.json
+C:\Users\samue\source\repos\FinalTestNETClass\DTOs\obj\Debug\netcoreapp3.1\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\FinalTestNETClass\DTOs\obj\Debug\netcoreapp3.1\DTOs.genruntimeconfig.cache

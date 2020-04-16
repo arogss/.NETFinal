@@ -1,0 +1,17 @@
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\bin\Debug\netcoreapp3.1\Logic.deps.json
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\obj\Debug\netcoreapp3.1\Logic.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfoInputs.cache
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfo.cs
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\obj\Debug\netcoreapp3.1\Logic.dll
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\obj\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\bin\Debug\netcoreapp3.1\Logic.runtimeconfig.json
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\bin\Debug\netcoreapp3.1\Logic.runtimeconfig.dev.json
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\obj\Debug\netcoreapp3.1\Logic.genruntimeconfig.cache
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\samue\source\repos\FinalTestNETClass\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CopyComplete
